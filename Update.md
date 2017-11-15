@@ -1,3 +1,1 @@
-# Goat-Bot
-Selfhost of Fredboat
-
+Goat bot updated to newest version.
